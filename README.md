@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="max" src="https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif">
+<p align="center"><img alt="coding" width="900" src="https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif"></p>
 <h1 align="center">Hi 👋, I'm Derek Reid-Wilkinson</h1>
 <h3 align="center">- A passionate Full-Stack Developer from Toronto -</h3>
 <br>
