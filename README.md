@@ -3,7 +3,7 @@
 <h3 align="center">- A passionate Full-Stack Developer from Toronto -</h3>
 <br>
 
-<img align="right" alt="coding" width="350" src="https://www.activeblogs.com/wp-content/uploads/2021/08/1628529290971.gif">
+<img align="right" alt="coding" width="400" src="https://www.activeblogs.com/wp-content/uploads/2021/08/1628529290971.gif">
 <br>
 
 - 🔭 I’m currently working on **SEI-Immersive with General Assembly**
