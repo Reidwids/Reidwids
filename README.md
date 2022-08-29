@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **SEI-Immersive with General Assembly**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React & Blockchain Development**
 
 - 👯 I’m looking to collaborate on **Fintech-related projects**
 
 - 🤝 I’m looking for help with **Finding full-time employment!**
 
-- 👨‍💻 All of my projects are available at [reidwids.com](reidwids.com)
+- 👨‍💻 All of my projects are available at [https://reidwids.netlify.app/](reidwids.netlify.app)
 
 - 💬 Ask me about **Any of the projects on my github :)**
 
