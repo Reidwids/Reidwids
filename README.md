@@ -6,15 +6,13 @@
 <img align="right" alt="coding" width="400" src="https://www.activeblogs.com/wp-content/uploads/2021/08/1628529290971.gif">
 <br>
 
-- 🔭 I’m currently working on **SEI-Immersive with General Assembly**
+- 🔭 I’m currently working on **Dev-Ops and Full-Stack Development**
 
-- 🌱 I’m currently learning **React & Blockchain Development**
+- 🌱 I’m currently learning **Blockchain Development & AI Fundamentals**
 
 - 👯 I’m looking to collaborate on **Fintech-related projects**
 
-- 🤝 I’m looking for help with **Finding full-time employment!**
-
-- 👨‍💻 All of my projects are available at <a href="https://reidwids.netlify.app/" target="_blank">reidwids.netlify.app</a>
+- 👨‍💻 All of my projects are available at <a href="https://reidwids.net/" target="_blank">reidwids.net</a>
 
 - 💬 Ask me about **Any of the projects on my github :)**
 
